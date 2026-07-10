@@ -35,21 +35,6 @@ I am actively modernizing seven years of domain logic toward a Python-first tool
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahithisarvepalli&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahithisarvepalli&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahithisarvepalli&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahithisarvepalli&theme=tokyonight&hide_border=true&ring=667EEA&fire=764BA2&currStreakLabel=667EEA" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [Sahithi Survepalli](https://www.linkedin.com/in/sahithisarvepalli/)
 - **Portfolio / Learning Hub:** [my-learning-hub](https://github.com/sahithisarvepalli/my-learning-hub)
